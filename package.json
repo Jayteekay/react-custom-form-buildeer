@@ -1,0 +1,31 @@
+{
+  "name": "react-custom-form-builder",
+  "version": "1.0.1",
+  "description": "A customizable form state management library.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "prepublish": "tsc",
+  "scripts": {
+    "build": "tsc",
+    "test": "npm test"
+  },
+  "keywords": [
+    "form",
+    "react"
+  ],
+  "author": "Tinuoye Johnson",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "jest-cli": "^27.0.6",
+    "react": "^17.0.2",
+    "ts-jest": "^27.0.3"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^13.1.9",
+    "@types/jest": "^26.0.23",
+    "@types/react": "^17.0.11"
+  }
+}
