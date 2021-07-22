@@ -1,4 +1,4 @@
-import { IFBInput } from '../../types';
+import { IFBInput } from "../../types";
 declare type genericFBElementType = {
     onUpdate: (name: string, value: string) => void;
 };

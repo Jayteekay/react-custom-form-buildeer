@@ -1,4 +1,4 @@
-import { IFBTextArea } from '../../types';
+import { IFBTextArea } from "../../types";
 declare type genericFBElementType = {
     onUpdate: (name: string, value: string) => void;
 };
