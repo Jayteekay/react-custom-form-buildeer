@@ -1,6 +1,6 @@
 {
   "name": "react-custom-form-builder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A customizable form state management library.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
